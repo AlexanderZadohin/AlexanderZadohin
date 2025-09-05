@@ -40,15 +40,14 @@
 ### 📊 Статистика GitHub
 
 <!-- Статы -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderZadohin&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderZadohin&layout=compact&theme=transparent)
 
 <!-- Серия коммитов -->
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=transparent&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=AlexanderZadohin&theme=transparent&date_format=j%20M%5B%20Y%5D)
 
 <!-- Граф активности -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexanderZadohin&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-<sub>⭐️ Чтобы это README отображалось на странице профиля, репозиторий должен называться ровно как ваш ник на GitHub (например, `USERNAME`) и содержать этот файл в корне.</sub>
