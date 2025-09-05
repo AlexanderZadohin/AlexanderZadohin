@@ -1,13 +1,13 @@
 <!-- Заголовок / приветствие -->
 <h1 align="center">Привет! 👋</h1>
 <p align="center">
-  Разрабатываю на <b>C# / .NET</b>, работаю с <b>MSSQL</b> и <b>MySQL</b>, делаю фронтенд на <b>React / TypeScript</b>.
+  Работаю с <b>C# / .NET</b> в бэкэнде и вместе с этим могу работать на <b>WPF,XAML</b>b>, СУБД имсользую <b>MSSQL</b> и <b>MySQL</b>, делаю фронтенд на <b>React / TypeScript</b>.
 </p>
 
 <!-- Быстрые ссылки -->
 <p align="center">
-  <a href="https://github.com/USERNAME?tab=repositories">Мои репозитории</a> ·
-  <a href="https://github.com/USERNAME">Профиль</a>
+  <a href="https://github.com/AlexanderZadohin?tab=repositories">Мои репозитории</a> ·
+  <a href="https://github.com/AlexanderZadohin">Профиль</a>
 </p>
 
 ---
