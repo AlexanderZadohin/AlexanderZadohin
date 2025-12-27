@@ -95,16 +95,6 @@
 
 ---
 
-## 📊 GitHub статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderZadohin&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderZadohin&layout=compact&theme=transparent)
-![GitHub Streak](https://streak-stats.demolab.com?user=AlexanderZadohin&theme=transparent&date_format=j%20M%5B%20Y%5D)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexanderZadohin&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 📫 Контакт
 
 Если хочешь обсудить проект/задачу — пиши через GitHub:
